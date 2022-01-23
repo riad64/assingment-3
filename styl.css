@@ -1,0 +1,121 @@
+.root {
+    height: 1274px;
+    background-color: rgb(201, 170, 170);
+}
+
+.bac_image {
+    border: 1px solid black;
+    height: 256px;
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190614/ourmid/pngtree-blue-technology-web-banner-image_122453.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.des {
+    height: 28px;
+    text-align: center;
+}
+
+.hh2 {
+    margin: 0 auto;
+    color: rgb(116, 7, 241);
+    font-family: sans-serif;
+}
+
+.gallery {
+    height: 256px;
+}
+
+.des_2 {
+    height: 128px;
+    text-align: center;
+}
+
+.bttn {
+    color: rgb(22, 21, 21);
+    font-size: 15px;
+    text-decoration: none;
+    background-color: rgb(62, 216, 221);
+    border-radius: 10px;
+    padding: 10px 10px;
+    font-weight: bold;
+    font-style: inherit;
+}
+
+.letter {
+    height: 250px;
+}
+
+.right,
+.leftt {
+    height: 100%;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.course1,
+.course2,
+.course3 {
+    height: 100%;
+    width: 33%;
+    border: turquoise;
+    float: left;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.about {
+    height: 228px;
+}
+
+.abo,
+.cont {
+    height: 100%;
+    width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.abo {
+    color: rgb(85, 14, 81);
+    font-weight: bold;
+    font-size: 20px;
+    background-color: rgb(96, 141, 141)
+}
+
+.cont {
+    color: rgb(231, 163, 75);
+    font-weight: bold;
+    font-size: 20px;
+    background-color: darkslategrey;
+}
+
+.footer {
+    height: 128px;
+    text-align: center;
+    background-color: rgb(15, 15, 15);
+    color: rgb(245, 241, 241);
+    padding-top: 15px;
+}
+
+.course1 {
+    background-color: rgb(151, 220, 232);
+}
+
+.course2 {
+    background-color: rgb(221, 232, 151);
+}
+
+.course3 {
+    background-color: rgb(151, 220, 232);
+}
